@@ -17,18 +17,42 @@ Arrays, Binary Search, Binary Search Trees (BST), Binary Trees, Bit Manipulation
 
 # LeetCode-posts
 
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+function myFunction() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
     
 </head>
 <body>
 
-<button type="button" class="collapsible"><b>Data Structures and Algorithms</b></button>
-
   <br>
 
+
 <div class="center">
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
     <input id="myInput" type="text" placeholder="Search.." class="center" size="32">
 </div>
 <br>
@@ -39,13 +63,6 @@ Arrays, Binary Search, Binary Search Trees (BST), Binary Trees, Bit Manipulation
        <col span="1" style="width: 55%;">
        <col span="1" style="width: 35%;">
     </colgroup>
-<thead>
-	<tr>
-		<th>Problem</th>
-		<th>Title and Solution</th>
-		<th>Solution Type</th>
-	</tr>
-</thead>
 
 <table class="center">
 <thead>
