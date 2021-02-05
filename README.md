@@ -1,4 +1,4 @@
-# coding-interview-practice
+# programming-practice
 
 Enclosed in this repository, are some of the coding interview problems that I have been solving for practice.
 <br><br>
