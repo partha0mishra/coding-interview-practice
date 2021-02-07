@@ -1,15 +1,16 @@
 # programming-practice
 
-Enclosed in this repository, are some of the coding interview problems that I have been solving for practice.
+This repository contains a list of detailed solutions to data structure and algorithm related problems.
 <br><br>
-The cringe_worthy_practice_problems contains older solutions, some of which are indeed cringe worthy.
-<br><br>
-Below is a table of leetcode posts which are more recent, however posts between 05/2020 and 09/2020 are also cringe worthy.
+Below is a table of LeetCode posts which are relatively recent. Each post is dated at the top.<br>
+Posts between 05/2020 and 09/2020 gradually progress through the cringe stage to satisfactory to strong.<br><br>
+Posts later than 11/2020 showcase my strength in data structures and algorithms.
 <br><br>
 The problem number links to the actual problem and the solution links to my posted solution.
 <br><br>
-About 10% of the problems require a membership to view, the rest do not.
-<br>
+About 10% of the problems require a LeetCode membership to view, the rest do not.
+<br><br>
+This repository also contains a folder called cringe_worthy_practice_problems.  The folder contains older solutions (02/2020) and my thought process approaching the problem for the first time, some of which are indeed cringe worthy.
 
 # LeetCode-posts
     
