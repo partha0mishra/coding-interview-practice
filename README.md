@@ -2,9 +2,7 @@
 
 This repository contains a list of detailed posts and solutions for data structure and algorithm related problems.<br>
 
-Below is a table of LeetCode posts.<br>
-
-The posts span from 05/2020 through present.  Over this time frame the quality of the solutions gradually progress from novice (05/2020 - 08/2020) to intermediate (08/2020 - 11/2020) to expert (11/2020 - present).  <br>
+Below is a table of LeetCode posts. The posts span from 05/2020 through present.  Over this time frame the quality of the solutions gradually progress from novice (05/2020 - 08/2020) to intermediate (08/2020 - 11/2020) to expert (11/2020 - present).  <br>
 
 The problem number links to the problem statement and the solution links to my discussion post / solution.<br>
 
