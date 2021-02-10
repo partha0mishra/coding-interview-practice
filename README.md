@@ -1,22 +1,20 @@
 ### <u>Introduction</u>
 
-This repository contains a list of detailed solutions to data structure and algorithm related problems.<br>
+This repository contains a list of detailed posts and solutions for data structure and algorithm related problems.<br>
 
-Below is a table of LeetCode posts which are relatively recent. Each post is dated at the top.<br>
+Below is a table of LeetCode posts.<br>
 
 The posts span from 05/2020 through present.  Over this time frame the quality of the solutions gradually progress from novice (05/2020 - 08/2020) to intermediate (08/2020 - 11/2020) to expert (11/2020 - present).  <br>
 
 The problem number links to the problem statement and the solution links to my discussion post / solution.<br>
 
-About 10% of the problems require a LeetCode membership to view, the rest do not.<br>
+About 10% of the posts require a LeetCode membership to view, the rest do not.<br>
 
 This repository also contains a folder called old_practice_problems.  The folder contains older solutions (02/2020) and my thought process approaching the problem for the first time.
 
 ### <u>Aside</u>
 
 The progression in quality of the posts below is closely linked to my progression in competitive programmimg (<a href="https://clist.by/account/rowe1227/resource/leetcode.com/"><b>shown here</b></a>) which can be compared to a larger population of programmers <a href="https://clist.by/resource/leetcode.com/"><b>(shown here)</b></a>.
-
-
 
 ### <u>LeetCode Posts</u>
     
