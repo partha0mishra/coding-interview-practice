@@ -1,18 +1,24 @@
-# programming-practice
+#### <u>Introduction</u>
 
 This repository contains a list of detailed solutions to data structure and algorithm related problems.
 <br><br>
-Below is a table of LeetCode posts which are relatively recent. Each post is dated at the top.<br>
-Posts between 05/2020 and 09/2020 gradually progress through the cringe stage to satisfactory to strong.<br><br>
-Posts later than 11/2020 showcase my strength in data structures and algorithms.
-<br><br>
-The problem number links to the actual problem and the solution links to my posted solution.
+Below is a table of LeetCode posts which are relatively recent. Each post is dated at the top.<br><br>
+
+The posts span from 05/2020 through present.  Over this time frame the quality of the solutions gradually progress from novice (05/2020 - 08/2020) to intermediate (08/2020 - 11/2020) to expert (11/2020 - present).  <br><br>
+
+The problem number links to the problem statement and the solution links to my discussion post / solution.
 <br><br>
 About 10% of the problems require a LeetCode membership to view, the rest do not.
 <br><br>
-This repository also contains a folder called cringe_worthy_practice_problems.  The folder contains older solutions (02/2020) and my thought process approaching the problem for the first time, some of which are indeed cringe worthy.
+This repository also contains a folder called old_practice_problems.  The folder contains older solutions (02/2020) and my thought process approaching the problem for the first time.
 
-# LeetCode-posts
+#### <u>Aside</u>
+
+The progression in quality of the posts below is closely linked to my progression in competitive programmimg (<a href="https://clist.by/account/rowe1227/resource/leetcode.com/"><b>shown here</b></a>) which can be compared to a larger population of programmers <a href="https://clist.by/resource/leetcode.com/"><b>(shown here)</b></a>.
+
+
+
+#### <u>LeetCode Posts</u>
     
 <table class="center">
     <colgroup>
