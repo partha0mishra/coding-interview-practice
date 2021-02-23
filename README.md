@@ -12,7 +12,7 @@ This repository also contains a folder called old_practice_problems.  The folder
 
 ### <u>Aside</u>
 
-The progression in quality of the posts below is closely linked to my progression in competitive programmimg (<a href="https://clist.by/account/rowe1227/resource/leetcode.com/"><b>shown here</b></a>) which can be compared to a larger population of programmers <a href="https://clist.by/resource/leetcode.com/"><b>(shown here)</b></a>.
+The progression in quality of the posts below is closely linked to my progression in competitive programmimg (<a href="https://clist.by/account/rowe1227/resource/leetcode.com/" target="_blank"><b>shown here</b></a>) which can be compared to a larger population of programmers <a href="https://clist.by/resource/leetcode.com/" target="_blank"><b>(shown here)</b></a>.
 
 ### <u>LeetCode Posts</u>
     
